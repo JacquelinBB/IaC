@@ -1,4 +1,4 @@
-<h1 align="center">IaC</h1>
+<h1 align="center">IaC (Infraestrutura como Código)</h1>
 
 :question: Script para facilitar a criação de usuário em lotes, seus respectivos grupos e permissões.
 
