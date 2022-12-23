@@ -1,7 +1,6 @@
 <h1 align="center">IaC (Infraestrutura como Código)</h1>
 
-:question: Script para facilitar a criação de usuário em lotes, seus respectivos grupos e permissões.
-:question: Feito no SO Linux, com distribuição Ubuntu para Server.
+:question: Script para facilitar a criação de usuário em lotes, seus respectivos grupos e permissões. Feito no SO Linux Server, com a distribuição Ubuntu.
 
 #### Desafio
 - Crie os seguintes diretórios: publico, adm, ven e sec.
